@@ -1,1 +1,2 @@
 Added new file test3.txt
+Adding aline 3
